@@ -17,19 +17,19 @@ public class Bank extends srmanager implements clerk {
 	
 	@Override
 	public void duty() {
-		System.out.println("manager will see how bank is functioning throughout months");
+		System.out.println("manager will see how bank is functioning throughout months1");
 		
 	}
 
 	@Override
 	public void cashier() {
-		System.out.println("cashier will service the customer transactions in a months");
+		System.out.println("cashier will service the customer transactions in a months1");
 		
 	}
 
 	@Override
 	void role() {
-		System.out.println("srmanager will conduct meetings with all the employees in a month");
+		System.out.println("srmanager will conduct meetings with all the employees in a month1");
 		
 	}
 
