@@ -41,10 +41,10 @@ public class Student1 {
 		Student1 s1=new Student1();
 		s1.print();  // 0 null,null
 		
-		Student1 s2=new Student1(111,"bharat");
+		Student1 s2=new Student1(111,"bharatchow");
 		s2.print();  //1111, rasagnya,null
 		
-		Student1 s3=new Student1(2222,"Kiran","Bangalore");
+		Student1 s3=new Student1(2222,"Kiran","vizag");
 		s3.print();  //2222,sowjanya, hyderabad..
 		
 		
