@@ -28,7 +28,7 @@ public class Calc {
 		
 		Calc c= new Calc();
 		c.add();;
-		c.add(20,22,33);;
+		c.add(201,212,313);;
 		
 		/*System.out.println(c.add(12,89));
 		System.out.println(c.add(31,22,33));
