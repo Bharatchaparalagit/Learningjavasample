@@ -41,6 +41,7 @@ public class Student1 {
 		Student1 s1=new Student1();
 		s1.print();  // 0 null,null
 		
+
 		Student1 s2=new Student1(111,"lucky");
 		s2.print();  //1111, rasagnya,null
 		
